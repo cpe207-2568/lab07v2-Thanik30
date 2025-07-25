@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:670610704
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : Thanik Sirithon
 
-GitHub Page URL :
+GitHub Page URL :https://cpe207-2568.github.io/lab07v2-Thanik30/
 
 ---
 
